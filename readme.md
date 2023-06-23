@@ -14,11 +14,10 @@
 <p align="center">Olá! Sou o André, um desenvolvedor full-stack com paixão por criar soluções web e móveis incríveis. Estou sempre buscando novos desafios para aprimorar minhas habilidades e oferecer o melhor resultado possível.</p>
 
 <p align="center">
-  <a href="#skills">Habilidades</a> •
-  <a href="#education">Educação</a> •
-  <a href="#experience">Experiência</a> •
-  <a href="#projects">Projetos</a> •
-  <a href="#contact">Contato</a>
+  <a href="#habilidades-técnicas">Habilidades</a> •
+  <a href="#formação-acadêmica">Educação</a> •
+  <a href="#projetos-destacados">Projetos</a> •
+  <a href="#contato">Contato</a>
 </p>
 
 ## Habilidades Técnicas
