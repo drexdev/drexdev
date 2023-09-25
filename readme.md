@@ -47,5 +47,3 @@
 - E-mail: suporte@drexdev.tech
 - LinkedIn: [André - LinkedIn](https://www.linkedin.com/in/drexdev)
 - Website: [https://drexdev.tech](https://drexdev.tech)
-
-Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos ou tiver alguma oportunidade profissional.
