@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySQL">
 </p>
 
-<p align="center">Olá! Eu sou André, tenho 17 anos e sou apaixonado por programação desde os meus 13 anos. Atualmente, meu foco principal é no desenvolvimento com Nest.js. Aqui está um pouco mais sobre mim:</p>
+<p align="center">Olá! Eu sou André, tenho 18 anos e sou apaixonado por programação desde os meus 13 anos. Atualmente, meu foco principal é no desenvolvimento com Nest.js. Aqui está um pouco mais sobre mim:</p>
 <p align="center">
   <a href="#habilidades-técnicas"><b>#Habilidades</b></a> •
   <a href="#formação-acadêmica"><b>#Educação</b></a> •
