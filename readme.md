@@ -19,9 +19,9 @@
 ## Habilidades Técnicas
 
 - Linguagens de Programação: Typescript, JavaScript
-- Backend: Nest.JS
+- Backend: Nest.JS, Fastify, Express
 - Frontend: NextJS
-- Bancos de Dados: MySQL, MongoDB
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB
 - Controle de Versão: Git, GitHub
 
 ## Formação Acadêmica
@@ -38,6 +38,6 @@
 
 ## Contato
 
-- E-mail: suporte@drexdev.tech
+- E-mail: andreps.amorim@gmail.com
 - LinkedIn: [André - LinkedIn](https://www.linkedin.com/in/drexdev)
 - Website: [https://drexdev.tech](https://drexdev.tech)
