@@ -1,6 +1,6 @@
-<h1 align="center">André - Desenvolvedor Full-Stack</h1>
+# **_Olá! Me chamo Lucas! 👋_**
 
-<p align="center">
+<div>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.JS">
@@ -8,38 +8,40 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+</div>
 
-<p align="center">Olá! Eu sou André, tenho 18 anos e sou apaixonado por programação desde os meus 13 anos. Atualmente, meu foco principal é no desenvolvimento com Nest.js. Aqui está um pouco mais sobre mim:</p>
-<p align="center">
-  <a href="#habilidades-técnicas"><b>#Habilidades</b></a> •
-  <a href="#formação-acadêmica"><b>#Educação</b></a> •
-  <a href="#projetos-destacados"><b>#Projetos</b></a> •
-  <a href="#contato"><b>#Contato</b></a>
-</p>
+#
 
-## Habilidades Técnicas
+> 🔎 Tenho apenas 18 anos e sou apaixonado por programação desde os meus 13 anos. Durante esse tempo venho experimentando e aprendendo várias linguagens e tecnologias. Minha ideia principal é tornar as coisas mais fáceis para os usuários e criar uma interface legal e amigável.
 
-- Linguagens de Programação: Typescript, JavaScript
-- Backend: Nest.JS, Fastify, Express
-- Frontend: NextJS
-- Bancos de Dados: MySQL, PostgreSQL, MongoDB
-- Controle de Versão: Git, GitHub
+- 😃 Meu nome é **Lucas** e gosto de aprender novas tecnologias.
+- 💻 Meus conhecimentos principais são em **Nest.JS**, **Next.JS**, **Typescript**.
 
-## Formação Acadêmica
+### 📞 Contate-me:
 
-- Curso de Programador Web - Senac PE (Concluído em 2022)
-    - HTML, CSS, JavaScript, MySQL, PHP
+- **LinkedIn:** https://www.linkedin.com/in/drexdev/
+- **GitHub**: https://www.github.com/drexdev/
+- **Portfolio**: https://drexdev.com.br/
 
-## Projetos Destacados
+# **_Projetos em destaque:_**
 
-- **Gerador de senha**
-    - Desenvolvido um aplicativo web para gerar senhas seguras.
-    - Tecnologias utilizadas: React, Typescript.
-    - Link para o repositório: [securekey](https://github.com/drexdev/securekey)
+A seguir, você verá uma lista de projetos finalizados em destaque.
 
-## Contato
+### **_3. Gerenciamento de usuários_**: 🥇
 
-- E-mail: andreps.amorim@gmail.com
-- LinkedIn: [André - LinkedIn](https://www.linkedin.com/in/drexdev)
-- Website: [https://drexdev.tech](https://drexdev.tech)
+> 👋 Olá! Este projeto é um Code Challenge desenvolvido para fins profissionais da empresa ProUnion. Nele, aplico meus conhecimentos em BackEnd e FrontEnd, utilizando as tecnologias Fastify (BackEnd) e React (FrontEnd).
+
+- **Link de repósitorio:** [Acesse o repositório](https://github.com/drexdev/Gerenciamento-de-usuarios).
+- **Link de visualização:** [Acesse o site](https://securekey-git-main-drexdev.vercel.app).
+
+### **_1. Gerador de senha_**: 🥈
+
+> O gerador de senha(**SecureKey**) é um projeto que permite gerar senhas seguras com funcionalidades como adicionar símbolos, números e regenerar a senha. Os usuários também podem copiar a senha gerada para uso imediato.
+
+- **Link de repósitorio:** [Acesse o repositório](https://github.com/drexdev/securekey).
+
+### **_2. Lista de tarefas_**: 🥉
+
+> Este projeto é um desafio de criar uma Lista de Tarefas que abrange tanto o desenvolvimento backend quanto frontend. O objetivo é testar e aplicar meus conhecimentos nessas áreas.
+
+- **Link de repósitorio:** [Acesse o repositório](https://github.com/drexdev/Todo-Project).
