@@ -27,20 +27,20 @@
 
 A seguir, você verá uma lista de projetos finalizados em destaque.
 
-### **_3. Gerenciamento de usuários_**: 🥇
+### **_1. Gerenciamento de usuários_**: 🥇
 
 > 👋 Olá! Este projeto é um Code Challenge desenvolvido para fins profissionais da empresa ProUnion. Nele, aplico meus conhecimentos em BackEnd e FrontEnd, utilizando as tecnologias Fastify (BackEnd) e React (FrontEnd).
 
 - **Link de repósitorio:** [Acesse o repositório](https://github.com/drexdev/Gerenciamento-de-usuarios).
-- **Link de visualização:** [Acesse o site](https://securekey-git-main-drexdev.vercel.app).
 
-### **_1. Gerador de senha_**: 🥈
+### **_2. Gerador de senha_**: 🥈
 
 > O gerador de senha(**SecureKey**) é um projeto que permite gerar senhas seguras com funcionalidades como adicionar símbolos, números e regenerar a senha. Os usuários também podem copiar a senha gerada para uso imediato.
 
 - **Link de repósitorio:** [Acesse o repositório](https://github.com/drexdev/securekey).
+- **Link de visualização:** [Acesse o site](https://securekey-git-main-drexdev.vercel.app).
 
-### **_2. Lista de tarefas_**: 🥉
+### **_3. Lista de tarefas_**: 🥉
 
 > Este projeto é um desafio de criar uma Lista de Tarefas que abrange tanto o desenvolvimento backend quanto frontend. O objetivo é testar e aplicar meus conhecimentos nessas áreas.
 
